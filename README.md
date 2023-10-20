@@ -1,2 +1,2 @@
 # ScheduleJob
-使用Quartz實作ScheduleJob
+使用Quartz.NET實作ScheduleJob
